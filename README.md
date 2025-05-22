@@ -1,7 +1,8 @@
 # AutoHotkey Ability Script
 
-This AutoHotkey script automates in-game ability usage and toggles with F1, F2, F3, plus a left-click Flameshield.
-
+f1 to start
+f2 to stop
+f3 to start with no teleport
 ## Abilities Mapping
 
 * **1 (Lightning Spear)**
