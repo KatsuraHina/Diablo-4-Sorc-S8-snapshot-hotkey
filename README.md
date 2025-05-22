@@ -1,8 +1,8 @@
 # AutoHotkey Ability Script
 
-f1 to start
-f2 to stop
-f3 to start with no teleport
+* f1 to start
+* f2 to stop
+* f3 to start with no teleport
 ## Abilities Mapping
 
 * **1 (Lightning Spear)**
