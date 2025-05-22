@@ -28,7 +28,7 @@ This AutoHotkey script automates in-game ability usage and toggles with F1, F2, 
 ## Installation
 
 1. Install [AutoHotkey](https://www.autohotkey.com/).
-2. Place `script.ahk` and this `README.md` in your GitHub repository.
+2. Place `script.ahk` into the designated folder
 3. Run `script.ahk` to activate the hotkeys.
 
 ## Contributing
